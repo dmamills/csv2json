@@ -1,0 +1,13 @@
+{
+    "name":"csv2json-cli",
+    "description":"command line interface for converting csv to json files",
+    "version":"0.0.1",
+    "keywords":[
+        "csv","json","convert"
+    ],
+    "author": {
+        "name":"Daniel Mills",
+        "email":"mills.dma@gmail.com"
+    },
+    "bin":{"csv2json": "/bin/csv2json"}
+}
